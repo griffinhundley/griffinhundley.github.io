@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 twapi/credentials.py
+.DS_Store
