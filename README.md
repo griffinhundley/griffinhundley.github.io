@@ -1,7 +1,14 @@
 # Griffin Hundley
 ## Data Science
 
-## Blogs
+### Contact
+
+LinkedIn: https://www.linkedin.com/in/griffin-hundley/
+
+Email: hundlegq@dukes.jmu.edu
+
+
+## Blogs and Mini-projects
 
 Here are a few of my short projects or articles.
 
@@ -23,7 +30,7 @@ Here are a few of my short projects or articles.
 
 ## Flatiron Projects
 
-Here are my Flatiron projects.
+Below is a collection of my projects during my Flatiron semester.
 
 [Phase 1: Movie Genre Analysis](https://github.com/griffinhundley/Phase1GriffEon)
 
