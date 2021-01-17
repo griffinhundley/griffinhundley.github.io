@@ -1,17 +1,29 @@
-## Griffin Hundley
-# Data Science
+# Griffin Hundley
+## Data Science
 
-# Blogs
+## Blogs
+
+Here are a few of my short projects or articles.
+
 [Learning Python with chess](https://griffinhundley.github.io/chess/)
+* my first exploration with pandas, into a topic I greatly enjoy
 
 [Planck's Law and Why Hot Things Glow](https://griffinhundley.github.io/solar/)
+* some interesting background into the physics of matter, and one of its most interesting properties
 
 [Twitch API Tutorial with Python](https://griffinhundley.github.io/twapi/)
+* a jupyter notebook tutorial on how to use the Twitch API, from getting authenticated to making requests
 
 [Can a Phone App Detect COVID?](https://hundlegq.medium.com/can-a-phone-app-detect-covid-fd763c40b20f)
+* a summary and lay interpretation of the machine learning COVID program
+
+[Proxy Scraper](https://github.com/griffinhundley/proxyscraper)
+* a short program that scrapes proxies to assist in data collection
 
 
-# Flatiron Projects
+## Flatiron Projects
+
+Here are my Flatiron projects.
 
 [Phase 1: Movie Genre Analysis](https://github.com/griffinhundley/Phase1GriffEon)
 
