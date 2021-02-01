@@ -7,6 +7,22 @@ LinkedIn: https://www.linkedin.com/in/griffin-hundley/
 
 Email: hundlegq@dukes.jmu.edu
 
+## Flatiron Projects
+
+Below is a collection of my projects during my Flatiron semester.
+
+[Twitch Streamer Analysis and Partnership Classification](https://github.com/griffinhundley/streamer-analysis)
+
+[Predicting Housing Prices in King County, WA](http://github.com/laurenphipps/dsc-phase-2-project)
+
+[Pneumonia Deep Learning](https://github.com/griffinhundley/pneumonia-deep-learning)
+
+[Movie Genre Analysis](https://github.com/griffinhundley/Phase1GriffEon)
+
+[Kickstarter Success](https://github.com/griffinhundley/kickstarter_success)
+
+
+
 
 ## Blogs and Mini-projects
 
@@ -26,18 +42,3 @@ Here are a few of my short projects or articles.
 
 [Proxy Scraper](https://github.com/griffinhundley/proxyscraper)
 * a short program that scrapes proxies to assist in data collection
-
-
-## Flatiron Projects
-
-Below is a collection of my projects during my Flatiron semester.
-
-[Phase 1: Movie Genre Analysis](https://github.com/griffinhundley/Phase1GriffEon)
-
-[Phase 2: Predicting Housing Prices in King County, WA](http://github.com/laurenphipps/dsc-phase-2-project)
-
-[Phase 3: Kickstarter Success](https://github.com/griffinhundley/kickstarter_success)
-
-[Phase 4: Pneumonia Deep Learning](https://github.com/griffinhundley/pneumonia-deep-learning)
-
-[Phase 5: Twitch Streamer Analysis and Partnership Classification](https://github.com/griffinhundley/streamer-analysis)
