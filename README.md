@@ -28,6 +28,9 @@ Below is a collection of my projects during my Flatiron semester.
 
 Here are a few of my short projects or articles.
 
+[Data Collection: Proxies and User Agents (Python)](https://hundlegq.medium.com/data-collection-proxies-and-user-agents-python-57396db1dc11)
+* tutorial on proxies and useragents to get around IP limits
+
 [Learning Python with chess](https://griffinhundley.github.io/chess/)
 * my first exploration with pandas, into a topic I greatly enjoy
 
