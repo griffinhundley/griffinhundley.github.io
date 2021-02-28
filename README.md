@@ -28,6 +28,9 @@ Below is a collection of my projects during my Flatiron semester.
 
 Here are a few of my short projects or articles.
 
+[Data Collection: Scraping for Proxies](https://hundlegq.medium.com/data-collection-scraping-for-free-proxies-python-ef375c2f28d6)
+* tutorial on scraping for free public proxies
+
 [Data Collection: Proxies and User Agents (Python)](https://hundlegq.medium.com/data-collection-proxies-and-user-agents-python-57396db1dc11)
 * tutorial on proxies and useragents to get around IP limits
 
